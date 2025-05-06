@@ -1,2 +1,19 @@
 strong: to bold the words
 h: header[h1, h2...], p: normal text
+
+To run the files:
+1. check if node.js is installed
+node -v
+npm -v
+
+2. go to correct folder and run 
+npm init -y
+npm install express
+
+3. start server using
+node fileName.js
+
+GIT:
+git add .
+git commit -m "my commit message"
+git push
