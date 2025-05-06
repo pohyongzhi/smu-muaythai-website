@@ -17,3 +17,4 @@ GIT:
 git add .
 git commit -m "my commit message"
 git push
+git fetch
