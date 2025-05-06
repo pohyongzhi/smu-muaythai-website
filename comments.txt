@@ -1,0 +1,2 @@
+strong: to bold the words
+h: header[h1, h2...], p: normal text

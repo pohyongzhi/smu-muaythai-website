@@ -1,0 +1,23 @@
+{
+  "name": "smu-muaythai-website",
+  "version": "1.0.0",
+  "main": "start.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pohyongzhi/smu-muaythai-website.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pohyongzhi/smu-muaythai-website/issues"
+  },
+  "homepage": "https://github.com/pohyongzhi/smu-muaythai-website#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
